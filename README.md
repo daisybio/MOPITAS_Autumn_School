@@ -21,13 +21,12 @@ If you choose to work on your own laptop during the hands-on sessions, please fo
     docker run -it -p 8888:8888 ghcr.io/daisybio/mopitas_autumn_school/student-notebook:latest
     ```
 
-3. Download the datasets archive: [https://gigamove.rwth-aachen.de/de/download/5dcc3471b818d3a169ee259afd428081](https://gigamove.rwth-aachen.de/de/download/8a6d885a10224997f58459ad3ef4f1bf). A password was sent to you via email.
-   Please note that it has ~17GB so plan accordingly!
+3. Download the datasets archive: https://gigamove.rwth-aachen.de/de/download/104c415290f09bb8d61215518eaf8b65 . A password was sent to you via email.
+   Please note that it has ~20GB so plan accordingly!
 
 5. Unzip the datasets: ```tar -xzf datasets.tar.gz```
 
 6. Check the folder structure. It should look like this:
-   That's a great way to visualize a directory structure\! Here is the graph, formatted like the output of the Unix `tree` command:
     ```
     .
     ├── datasets
